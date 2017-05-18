@@ -9,9 +9,10 @@ IMPORTANT: never move the mouse away from the bottom right position! This is imp
 This bot is created with AutoHotKey script
 
 # Donation
-If you enjoy it, feel free to send donations as bitcoin or monero here:
+If you enjoy it, please feel free to send donations as bitcoin or monero here:
 
 BTC address: 1CrCk5JzdDDrfVH3CFKzs5MgXWVwQ9kuJ1
+
 XMR address: 49G1T7GmzyBh9UtLo2sQ4UYAwsVTgJj96FDmfLUSAShYUopFwULKWi5Ebt1HiQRnAkaH7Y9a1CxX5gUk2MPgdw5TFn9PtA4
 
 Much appreciated, thank you
