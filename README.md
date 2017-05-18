@@ -2,7 +2,12 @@
 Simple bot for Dead by Daylight, useful to farm bloodpoints with the Wraith
 
 # How to
-Just launch the bot.exe file as administrator, when in game position your mouse on the "Create a lobby" button and press F8 to start the bot. That's it!
+Just launch the bot.exe file as administrator, when in game select the Wraith as killer and position your mouse on the "Create a lobby" button, press F8 to start the bot. That's it!
+
+If you want to stop the bot press F8 again. To pause or close the script look in your taskbar for a green "H" button.
+
+This bot is created to maximize the bloodpoints with the Wraith, it was never tested with other killers.
+
 IMPORTANT: never move the mouse away from the bottom right position! This is important to recreate a lobby after exiting a game. Move yourself away from the chair instead :)
 
 # Credit
