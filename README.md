@@ -19,10 +19,8 @@ This bot is created with AutoHotKey script
 
 
 # Donations
-If you enjoy it, please feel free to send donations as bitcoin or monero here:
+If you enjoy it, please feel free to send donations as bitcoin here:
 
 BTC address: 17wzVMssHULq3LcJaESBkiB2cu2L9yCYn1
-
-XMR address: 49G1T7GmzyBh9UtLo2sQ4UYAwsVTgJj96FDmfLUSAShYUopFwULKWi5Ebt1HiQRnAkaH7Y9a1CxX5gUk2MPgdw5TFn9PtA4
 
 Much appreciated, thank you
