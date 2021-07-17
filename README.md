@@ -19,6 +19,6 @@ This bot is created with AutoHotKey script
 
 
 # Donations
-If you enjoy it, please feel free to send donations as bitcoin here: 17wzVMssHULq3LcJaESBkiB2cu2L9yCYn1
+If you enjoy it, please feel free to send donations as bitcoin here: 3DY5ZFeAySsF1p2quPqLwp5AuZSspwQRUg
 
 Much appreciated, thank you
