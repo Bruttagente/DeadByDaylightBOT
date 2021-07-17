@@ -28,6 +28,6 @@ This bot is created with AutoHotKey script
 
 If you enjoy it, please feel free to send donations as bitcoin or monero here:
 
-BTC address: 17wzVMssHULq3LcJaESBkiB2cu2L9yCYn1
+BTC address: 3DY5ZFeAySsF1p2quPqLwp5AuZSspwQRUg
 
 Much appreciated, thank you
