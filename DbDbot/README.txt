@@ -26,7 +26,7 @@ This bot is created with AutoHotKey script
 
 ***Donations***
 
-If you enjoy it, please feel free to send donations as bitcoin or monero here:
+If you enjoy it, please feel free to send donations as bitcoin
 
 BTC address: 3DY5ZFeAySsF1p2quPqLwp5AuZSspwQRUg
 
